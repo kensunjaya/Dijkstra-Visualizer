@@ -278,7 +278,6 @@ void visualize(int dest) {
 			if (maze[row+1][col+1] != 3) {
 				maze[row+1][col+1] = 1;
 			}
-			
 			curr = curr->next;
 		}
 		if (dist[dest] == INT_MAX) {
