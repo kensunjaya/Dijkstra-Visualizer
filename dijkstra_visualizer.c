@@ -3,8 +3,8 @@
    6 January 2024 
    
    Controls :
-   <enter> 	 : randomize maze
-   <q> 		 : quit
+   <enter>   : randomize maze
+   <q>       : quit
    <space>   : view all possible dest's solutions
    <any key> : repeat visualization
 */
